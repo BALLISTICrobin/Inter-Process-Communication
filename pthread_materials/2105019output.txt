@@ -1,0 +1,44 @@
+Operative 3 arrived at typewriting station at time 4
+Operative 4 arrived at typewriting station at time 10
+Operative 3 has completed document recreation at time 15
+Operative 2 arrived at typewriting station at time 18
+Operative 4 has completed document recreation at time 20
+Operative 5 arrived at typewriting station at time 20
+Operative 2 has completed document recreation at time 28
+Operative 6 arrived at typewriting station at time 28
+Operative 5 has completed document recreation at time 30
+Operative 6 has completed document recreation at time 39
+Operative 8 arrived at typewriting station at time 39
+Operative 7 arrived at typewriting station at time 48
+Operative 8 has completed document recreation at time 49
+Operative 7 has completed document recreation at time 58
+Operative 9 arrived at typewriting station at time 71
+Operative 9 has completed document recreation at time 81
+Intelligence Staff 2 began reviewing logbook at time 389. Operations completed = 0
+Intelligence Staff 1 began reviewing logbook at time 484. Operations completed = 0
+Operative 11 arrived at typewriting station at time 567
+Operative 11 has completed document recreation at time 578
+Intelligence Staff 2 began reviewing logbook at time 731. Operations completed = 0
+Intelligence Staff 1 began reviewing logbook at time 867. Operations completed = 0
+Intelligence Staff 2 began reviewing logbook at time 1190. Operations completed = 0
+Intelligence Staff 1 began reviewing logbook at time 1356. Operations completed = 0
+Operative 10 arrived at typewriting station at time 1404
+Operative 12 arrived at typewriting station at time 1405
+Operative 13 arrived at typewriting station at time 1407
+Operative 15 arrived at typewriting station at time 1408
+Operative 10 has completed document recreation at time 1414
+Operative 14 arrived at typewriting station at time 1414
+Operative 12 has completed document recreation at time 1415
+Unit1 has completed document recreation phase at time 1417
+Operative 13 has completed document recreation at time 1417
+Operative 1 arrived at typewriting station at time 1417
+Operative 15 has completed document recreation at time 1418
+Operative 14 has completed document recreation at time 1424
+Operative 1 has completed document recreation at time 1427
+Unit2 has completed document recreation phase at time 1427
+Unit0 has completed document recreation phase at time 1430
+Intelligence Staff 2 began reviewing logbook at time 1533. Operations completed = 3
+Intelligence Staff 1 began reviewing logbook at time 1845. Operations completed = 3
+Intelligence Staff 2 began reviewing logbook at time 1992. Operations completed = 3
+Intelligence Staff 1 began reviewing logbook at time 2182. Operations completed = 3
+Intelligence Staff 2 began reviewing logbook at time 2391. Operations completed = 3
